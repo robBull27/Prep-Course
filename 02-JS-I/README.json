@@ -1,7 +1,7 @@
 {
   "lessonTitle": "JavaScript I",
   "feedbackID": "02-JS-I",
-  "permalink": "/JavaScript_I/",
+  "permalink": "/JavaScript_I/","hola´"
   "homeworkUrl": "https://github.com/soyHenry/Prep-Course/tree/main/02-JS-I/homework",
   "eleventyNavigation": {
     "key": "JS I",
